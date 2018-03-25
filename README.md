@@ -1,4 +1,4 @@
-# FutterLeaning
+# FlutterLeaning
 my repository for learning Futter
 
 #startup_namer
