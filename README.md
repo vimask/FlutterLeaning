@@ -1,5 +1,5 @@
 # FutterLeaning
-my repository to learn Futter
+my repository for learning Futter
 
 #startup_namer
 * Basic structure of a Flutter app.
